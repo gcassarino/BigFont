@@ -1,6 +1,6 @@
 # BigFont Library for Arduino
 
-This library allows a board to display big digits/numbers on 4 row monochrome text displays.
+This library allows an Arduino board (a controller using the Arduino core libraries) to display big digits/numbers on 4 row monochrome text displays.
 
 This library is derived from [https://github.com/wa1hco/BigFont](https://github.com/wa1hco/BigFont) but unlike the previous this library implements multiple font sizes: 3x2, 3x3 and 4x4 fonts
 
