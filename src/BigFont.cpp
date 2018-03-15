@@ -53,7 +53,7 @@ void BigFont::loadchars(LiquidCrystal_I2C& lcd)
     lcd.createChar(4, custchar2[4]);
     lcd.createChar(5, custchar2[5]);
     lcd.createChar(6, custchar2[6]);
-    lcd.createChar(7, custchar3[7]); // bell (uguale per tutti i font)
+    lcd.createChar(7, custchar3[7]); // bell (same for all fonts)
   } else {
     // FONTS 3x3 e 4x4
     // load custom characters into display controller memory
