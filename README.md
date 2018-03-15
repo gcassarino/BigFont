@@ -15,16 +15,16 @@ Example of use:
     
     bigfont.setFontSize(size); // used to change display font size 2,3 or 4
 
-    if(_bigFontSize == 2){
-			bigfont.printbigchar(lcd, 0, 0, 0);
-			bigfont.printbigchar(lcd, this->_dt.hour, 3, 0);
-		} else if(_bigFontSize == 3){
-			bigfont.printbigchar(lcd, 0, 0, 0);
-			bigfont.printbigchar(lcd, this->_dt.hour, 3, 0);
-		} else {
-			bigfont.printbigchar(lcd, 0, 0, 0);
-			bigfont.printbigchar(lcd, this->_dt.hour, 4, 0);
-		}
+    	if(_bigFontSize == 2){
+		bigfont.printbigchar(lcd, 0, 0, 0);
+		bigfont.printbigchar(lcd, this->_dt.hour, 3, 0);
+	} else if(_bigFontSize == 3){
+		bigfont.printbigchar(lcd, 0, 0, 0);
+		bigfont.printbigchar(lcd, this->_dt.hour, 3, 0);
+	} else {
+		bigfont.printbigchar(lcd, 0, 0, 0);
+		bigfont.printbigchar(lcd, this->_dt.hour, 4, 0);
+	}
 
 ```
 The BigFont library was tested on ESP8266 and ATMega328 boards using the Arduino core.
