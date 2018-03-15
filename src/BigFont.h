@@ -1,5 +1,5 @@
 /*
- * BitFont.h - Bit Font library for Arduino - Version 0.21
+ * BigFont.h - Big Font library for Arduino - Version 0.21
  *
  * Derived from https://github.com/wa1hco/BigFont
  *   Original library        (0.1)   by Tom Igoe and others
@@ -143,7 +143,7 @@ class BigFont {
           B11110,
           B11100
         }/*,
-        { // 7 (alarm symbol) uguale a quelli sotto
+        { // 7 (alarm symbol) same for all fonts, defined below
           B00100,
           B01110,
           B01110,
