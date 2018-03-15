@@ -43,7 +43,7 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments/Credits
 
-* this Library is derived from [wa1hco](https://github.com/wa1hco/BigFont) 
+* this Library is derived from [wa1hco BigFont](https://github.com/wa1hco/BigFont) 
 * BigFont.cpp - Big Font library for Arduino - Version 0.1 Derived from Stepper.cpp Original library (0.1) by Tom Igoe et al...
 * [Francisco Malpartida](https://bitbucket.org/fmalpartida/) for writing the excellent library New LiquidCrystal
 
