@@ -7,7 +7,7 @@ This library is derived from [https://github.com/wa1hco/BigFont](https://github.
 
 ## Getting Started
 
-This library was tested using a LCD display drived by the Hitachi HD44780 LCD controller. The controller was drived using the [New LiquidCrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home) LCD Library from Francisco Malpartida. 
+This library was tested using a LCD display drived by the Hitachi HD44780 LCD controller. The controller was drived using the [New LiquidCrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home) LCD Library by Francisco Malpartida. 
 
 Example of use:
 ```
